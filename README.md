@@ -180,7 +180,7 @@ git clone https://github.com/<YOUR_GITHUB_USERNAME>/voitureProject
 <!-- CONTACT -->
 ## Contact
 * Student n°1 : [https://github.com/QuentinDesse](https://github.com/QuentinDesse)
-* Student n°2 : [https://github.com/Aredi](https://github.com/Aredi)
+* Student n°2 : [https://github.com/theoradde)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
