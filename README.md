@@ -18,7 +18,7 @@
 <!-- PROJECT flask -->
 <br />
 <p align="center">
-  <a href="static/assets/images/preview/">
+  <a href="https://github.com/QuentinDesse/projetflask/blob/main/static/assets/images/preview/">
     <img src="light.png" width="80" height="80">
   </a>
 
