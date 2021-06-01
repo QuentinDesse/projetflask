@@ -18,8 +18,8 @@
 <!-- PROJECT flask -->
 <br />
 <p align="center">
-  <a href="static/assets/images/preview/light.png">
-    <img src="template.png" width="80" height="80">
+  <a href="static/assets/images/preview/">
+    <img src="light.png" width="80" height="80">
   </a>
 
   <h3 align="center">Web Project</h3>
