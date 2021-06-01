@@ -18,7 +18,7 @@
 <!-- PROJECT flask -->
 <br />
 <p align="center">
-  <a href="https://github.com/QuentinDesse/projetflask/blob/fce330d7ed9c6ac18447be1dd3e0d7ece0205919/static/assets/images/preview/light.png">
+  <a href="static/assets/images/preview/light.png">
     <img src="template.png" width="80" height="80">
   </a>
 
@@ -74,7 +74,7 @@ Here are the minimum functionalities expected for the project, any addition will
             <th align="center">Studens of the project</th>
             <th align="center">Teatchers</th>
             <th align="center">High school Proméo</th>
-            <th align="center">Licence Pro/th>
+            <th align="center">Licence Pro</th>
         </tr>
     </thead>
     <tbody>
@@ -86,48 +86,71 @@ Here are the minimum functionalities expected for the project, any addition will
         </tr>
         <tr>
             <td align="center">Radde Théo</td>
-            <td align="center"></td>
-            <td align="center"></td>
-            <td align="center"></td>
+           <td align="center">Delahaye Samy </td>
+            <td align="center"> 240 Avenue Marcel Dassault, 60002 Beauvais</td>
+            <td align="center">Réseaux et Genie informatique</td>
         </tr>
         <tr>
             <td align="center">Regnier Louis</td>
-            <td align="center"></td>
-            <td align="center"></td>
-            <td align="center"></td>
+            <td align="center">Delahaye Samy </td>
+            <td align="center"> 240 Avenue Marcel Dassault, 60002 Beauvais</td>
+            <td align="center">Réseaux et Genie informatique</td>
         </tr>
     </tbody>
 </table>
 
 ### Built With
 
-* [C++](https://fr.wikipedia.org/wiki/C%2B%2B)
-* [Visual Studio](https://visualstudio.microsoft.com/fr/)
-* [SFML Bibliothèque](https://www.sfml-dev.org/index-fr.php)
+* [HTML/CSS](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics)
+* [PHP Storm](https://www.jetbrains.com/fr-fr/phpstorm/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+* [Pawee](http://docs.peewee-orm.com/en/latest/)
+* [WtForm](https://wtforms.readthedocs.io/en/2.3.x/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-### Prerequisites
+### Prerequisites macOS/linux
 
-* [Visual Studio] Or other IDE with C++ compilator
-Exemple : *[Webstorm](https://www.jetbrains.com/fr-fr/webstorm/)
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
+* [PhpStorm] Or other IDE with C++ compilator
+This is an example of how to list things you need to use the software and how to install them
+* [Flask] Install Flask
+* Create an environment
+```
+$ mkdir myproject
+$ cd myproject
+$ python3 -m venv venv
+```
+* Activate the environment
+```
+$ . venv/bin/activate
+```
+* Install Flask
+```
+$ pip install Flask 
+```
+* Install Pewee 
+
+```
+pip install peewee
 ```
 
-### Installation
+### Installation & Compilation
  
 1. Clone the repo
 ```sh
 git clone https://github.com/github_username/Project-Name.git
 ```
-2. Install NPM packages
-```sh
-npm install
+2. Activate Flask
+In the dossier 'ProjetFlask', open a terminal, you can run with :
+```
+Flask run 
+```
+3. Graphic Interface acces : 
+In web browser, Running on : 
+``` 
+http://127.0.0.1:5000/
 ```
 
 
