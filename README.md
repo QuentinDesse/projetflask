@@ -18,8 +18,8 @@
 <!-- PROJECT flask -->
 <br />
 <p align="center">
-  <a href="https://github.com/QuentinDesse/Domotique">
-    <img src="exemple.png" width="80" height="80">
+  <a href="https://github.com/QuentinDesse/projetflask/blob/fce330d7ed9c6ac18447be1dd3e0d7ece0205919/static/assets/images/preview/light.png">
+    <img src="template.png" width="80" height="80">
   </a>
 
   <h3 align="center">Web Project</h3>
@@ -52,17 +52,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The objective of this mini-project is to design a 2D car game
-The road scrolls vertically, the car is driven using only two keys, right and left, it can move across the width of the window but not beyond.
-The object of the game is to make the longest possible journey without any problems knowing that the road is strewn with holes that the car must avoid.
-A distance counter is incremented according to the speed of the road, this distance corresponds to the player's score.
-Each time the car passes over a hole, on the side of the road or if the car drives off the road, damage is inflicted on the car.
-A "damage" gauge allows you to know the state of the car, if it reaches level 0 the game ends and the score corresponds to the number of "kilometers" performed.
-The player can "repair" his car using the keys of mechanics on the road to increase his damage gauge.
-Each pass on a key is accompanied by an acceleration of the car and therefore an additional risk of encountering a hole or making a departure from the road.
-The game will be accompanied by background music and sound effects when the car is driven over a hole, is driven on the side of the road or in the grass and when it retrieves a key.
-The application should run on all Windows environments.
+The goal of this project is to make you practice all the concepts seen in class. You need to create a website allowing to expose the contents of a database via a graphical interface.
 
+Here are the minimum functionalities expected for the project, any addition will obviously be enhanced:
+
+- Home page displays artists, albums and genres available on the site
+- Artist consultation page which also allows you to see all of the said artist's albums
+- Consultation page of an album displays the songs of this one
+- Genre consultation page (listing songs of the genre)
+- Customer consultation page
+- Customer consultation page listing in particular the customer's orders
+- Order consultation page
+- Employee consultation page
+- Employee consultation page and listing of his clients and his manager
+- Addition page of an order (linked to an employee, a customer and at least one title)
 
 ------------------------------------------------
 <table>
@@ -70,31 +73,25 @@ The application should run on all Windows environments.
         <tr>
             <th align="center">Studens of the project</th>
             <th align="center">Teatchers</th>
-            <th align="center">High school Paul Cornu</th>
-            <th align="center">BTS Systèmes Numériques/th>
+            <th align="center">High school Proméo</th>
+            <th align="center">Licence Pro/th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="center">Dominguez-Condé Alexis</td>
-            <td align="center">Dossier Sebastien</td>
-            <td align="center">9 Rue Paul Cornu, 14100 Lisieux</td>
-            <td align="center">Option A Informatique et Réseaux</td>
-        </tr>
-        <tr>
             <td align="center">Desse Quentin</td>
+            <td align="center">Delahaye Samy </td>
+            <td align="center"> 240 Avenue Marcel Dassault, 60002 Beauvais</td>
+            <td align="center">Réseaux et Genie informatique</td>
+        </tr>
+        <tr>
+            <td align="center">Radde Théo</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
         </tr>
         <tr>
-            <td align="center">Aubert Nathan</td>
-            <td align="center"></td>
-            <td align="center"></td>
-            <td align="center"></td>
-        </tr>
-      <tr>
-            <td align="center">Sanchez Mathieu</td>
+            <td align="center">Regnier Louis</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
