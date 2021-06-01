@@ -18,8 +18,8 @@
 <!-- PROJECT flask -->
 <br />
 <p align="center">
-  <a href="https://github.com/QuentinDesse/projetflask/blob/main/static/assets/images/preview/">
-    <img src="light.png" width="80" height="80">
+  <a href="https://github.com/QuentinDesse/projetflask/blob/main/static/assets/images/preview">
+    <img src="light.png" width="100" height="100">
   </a>
 
   <h3 align="center">Web Project</h3>
