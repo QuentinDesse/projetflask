@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/QuentinDesse/projetflask">
-    <img src="static/assets/images/preview/light.png" width="450" height="300">
+    <img src="static/assets/images/preview/light.png" width="550" height="300">
   </a>
 
   <h3 align="center">Web Project</h3>
