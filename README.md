@@ -41,10 +41,10 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+  * [Prerequisites](#prerequisites-macOS/linux)
+  * [Installation](#installation-&-Compilation)
 * [Usage](#usage)
-* [Contributing](#contributing)
+* [Improvement](#Improvement)
 * [Contact](#contact)
 
 
@@ -165,22 +165,19 @@ http://127.0.0.1:5000/
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Improvement
 
-1. Create a [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) of this project
-2. Clone the project:
-```sh
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/voitureProject
-```
-3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the Branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
+Some areas for improvement of the project :
+
+1. An API that allows you to display the information of consultations 1 to 10 above via a REST API.
+2. A customer connection interface to place an order.
+3. A connection interface used to view orders.
 
 <!-- CONTACT -->
 ## Contact
-* Student n°1 : [https://github.com/QuentinDesse](https://github.com/QuentinDesse)
-* Student n°2 : [https://github.com/theoradde)
+* Student n°1 : [QuentinDesse GIT](https://github.com/QuentinDesse)
+* Student n°2 : [ThéoRadde GIT](https://github.com/theoradde)
+* Student n°2 : [LouisRegnier linkedin](https://www.linkedin.com/in/louis-regnier-3bb48a121/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
