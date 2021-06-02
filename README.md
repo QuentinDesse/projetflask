@@ -41,7 +41,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites macOS/linux](prerequisites-macoslinux)
+  * [Prerequisites macOS/linux](#prerequisites-macoslinux)
   * [Installation & Compilation](#installation--compilation)
 * [Usage](#usage)
 * [Improvement](#improvement)
@@ -155,16 +155,16 @@ http://127.0.0.1:5000/
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 ## Usage
 <p align="center">
   <a href="#">
     <img src="exemple.png" alt="image exemple">
     <a>
-  </p>
+  </p> -->
 
 
-<!-- CONTRIBUTING -->
+<!-- Improvement -->
 ## Improvement
 
 Some areas for improvement of the project :
