@@ -41,10 +41,10 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites macOS/linux](#prerequisites-macOS/linux)
-  * [Installation & Compilation](#installation-&-Compilation)
+  * [Prerequisites macOS/linux](#prerequisites)
+  * [Installation & Compilation](#installation)
 * [Usage](#usage)
-* [Improvement](#Improvement)
+* [Improvement](#improvement)
 * [Contact](#contact)
 
 
